@@ -1,4 +1,4 @@
-# João Gabriel
+# 🖐 João Gabriel
 
 Me chamo João Gabriel, sou graduando em Engenharia de Software na Universidade Federal do Ceará (UFC). Aqui no GitHub, compartilho alguns dos meus projetos e estudos relacionados à programação e desenvolvimento de software.
 
