@@ -68,9 +68,8 @@ Me chamo João Gabriel, sou graduando em Engenharia de Software na Universidade 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JGCL24&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <br/>
-  <br/>
-
+  <p>
+  <p>
 <img 
       align="left" 
       alt="GitHub Stats" 
