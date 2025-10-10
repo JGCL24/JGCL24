@@ -4,12 +4,12 @@
 
 <p align="center">
   💻 Desenvolvedor apaixonado por tecnologia e código limpo.  
-  🚀 Sempre a aprender e a explorar novas linguagens e ferramentas.  
+  🚀 Sempre a aprender e a explorar novas linguagens e ferramentas. 
 </p>
 
 ---
 
-### 🧠 Sobre mim
+🧠 Sobre mim
 
 - 🌱 Atualmente a aprender e a melhorar em **Golang**  
 - 💬 Gosto de partilhar conhecimento e colaborar em projetos open source  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Tecnologias que utilizo
+🚀 Tecnologias que utilizo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+🌐 Onde me encontrar
 
 <p align="center">
   <a href="www.linkedin.com/in/joão-gabriel-cl" target="_blank">
