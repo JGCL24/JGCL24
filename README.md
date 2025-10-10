@@ -3,8 +3,7 @@
 <h1 align="center">👋 Olá! Eu sou o João Gabriel</h1>
 
 <p align="center">
-  💻 Desenvolvedor apaixonado por tecnologia e código limpo.  
-  🚀 Sempre a aprender e a explorar novas linguagens e ferramentas. 
+  💻 Desenvolvedor apaixonado por tecnologia e código limpo. Em busca de sempre aprender e a explorar novas linguagens, ferramentas e tecnologias.
 </p>
 
 ---
