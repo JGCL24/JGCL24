@@ -11,7 +11,6 @@
 
 🧠 Sobre mim
 
-- 🌱 Atualmente a aprender e a melhorar em **Golang**  
 - 💬 Gosto de partilhar conhecimento e colaborar em projetos open source  
 - ⚙️ Focado em boas práticas e automação de processos  
 - 📫 Como contactar-me: joaogabrielcostaleandro@gmail.com
