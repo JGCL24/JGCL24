@@ -4,7 +4,6 @@
 
 <p align="center">
   💻 Desenvolvedor apaixonado por tecnologia e código limpo. Em busca de sempre aprender e a explorar novas linguagens, ferramentas e tecnologias.
-  ✨ Nova secção adicionada a partir da branch atualizar-readme!
 </p>
 
 ---
