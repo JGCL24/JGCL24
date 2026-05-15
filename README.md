@@ -6,7 +6,6 @@
   💻 Desenvolvedor apaixonado por tecnologia e código limpo. Em busca de sempre aprender e a explorar novas linguagens, ferramentas e tecnologias.
 </p>
 
----
 
 🧠 Sobre mim
 
@@ -14,7 +13,6 @@
 - ⚙️ Focado em boas práticas e automação de processos  
 - 📫 Como contactar-me: joaogabrielcostaleandro@gmail.com
 
----
 
 🚀 Tecnologias que utilizo
 
@@ -26,16 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/>
 </p>
----
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-
----
 
 🌐 Onde me encontrar
 
