@@ -75,52 +75,6 @@ Sou estudante de **Engenharia de Software na Universidade Federal do Ceará (UFC
 
 </details>
 
----
-
-## 📌 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 SIGBRO
-Back-end em FastAPI para gestão de produção (Produção/Lotes, Insumos), com autenticação via Supabase e suíte de testes automatizados em pytest cobrindo casos de alta prioridade.
-
-`Python` `FastAPI` `Supabase` `Pytest`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌶️ B-R-O-Bró
-Catálogo de produtos para uma marca de molhos artesanais, com design tokens customizados em Tailwind CSS e integração com Supabase Storage.
-
-`JavaScript` `Tailwind CSS` `Supabase`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 Vamos conversar?
 
 <a href="https://www.linkedin.com/in/joao-gabriel-cl" target="_blank">
